@@ -1,4 +1,4 @@
-![Banner](.banner)
+![Banner](IMG_0616.png)
 
 # 👋 ¡Hola! Soy Angely María Rojas Aguirre
 
