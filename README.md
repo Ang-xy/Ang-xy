@@ -49,11 +49,6 @@
 
 ---
 
-![Angy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ang-xy&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ang-xy)
-
----
-
 > _“Transformo ideas en circuitos y prototipos que mejoran vidas. Aprendo, diseño y construyo el futuro de la Ingeniería Biomédica.”_
 
 **Angely María Rojas Aguirre**  
