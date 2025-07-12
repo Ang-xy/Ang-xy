@@ -1,4 +1,4 @@
-![Banner](IMG_0616.png)
+![Banner](https://github.com/Ang-xy/Ang-xy/blob/main/Banner%20Horizontal%20Evento%20de%20Moda%20Moderno%20Violeta.png)
 
 # 👋 ¡Hola! Soy Angely María Rojas Aguirre
 
